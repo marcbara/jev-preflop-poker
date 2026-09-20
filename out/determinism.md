@@ -1,0 +1,6 @@
+| reps_agreeing | spots | pct |
+|---|---|---|
+| 5 | 798 | 94.4 |
+| 4 | 26 | 3.1 |
+| 3 | 21 | 2.5 |
+| mean_determinism | 0.984 |  |
